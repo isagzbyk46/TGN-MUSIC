@@ -1,10 +1,10 @@
 [![](https://img.shields.io/badge/TgnMusic-V2-darkgreen)](#)
-[![Stars](https://img.shields.io/github/stars/Godfatherakkii/TGN-MUSIC?style=flat-square&color=yellow)](https://github.com/Godfatherakkii/TGN-MUSIC/stargazers)
-[![Forks](https://img.shields.io/github/forks/Godfatherakkii/TGN-MUSIC?style=flat-square&color=orange)](https://github.com/Godfatherakkii/TGN-MUSIC/fork)
+[![Stars](https://img.shields.io/github/stars/Godfatherakkii/TGN-MUSIC?style=flat-square&color=yellow)](https://github.com/isagzbyk46/TGN-MUSIC/stargazers)
+[![Forks](https://img.shields.io/github/forks/Godfatherakkii/TGN-MUSIC?style=flat-square&color=orange)](https://github.com/isagzbyk46/TGN-MUSIC/fork)
 
 
-[![Telegram](https://img.shields.io/badge/-Support-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/TheGodfatherChat)
-[![Telegram](https://img.shields.io/badge/-UpDate-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/IndianBotUpDates)
+[![Telegram](https://img.shields.io/badge/-Support-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/gitaristmusic12)
+[![Telegram](https://img.shields.io/badge/-UpDate-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/gitaristmusica)
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -26,10 +26,10 @@
 ## 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗛𝗲𝗿𝗼𝗸𝘂
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Godfatherakkii/TGN-MUSIC)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/isagzbyk46/TGN-MUSIC)
 
 ## 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗩𝗣𝗦
-- Get your [Necessary Variables](https://github.com/Godfatherakkii/TGN-MUSIC/blob/master/.env)
+- Get your [Necessary Variables](https://github.com/isagzbyk46/TGN-MUSIC/blob/master/.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -41,7 +41,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/Godfatherakkii/TGN-MUSIC && cd TGN-MUSIC`
+`git clone https://github.com/isagzbyk46/TGN-MUSIC && cd TGN-MUSIC`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -62,4 +62,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 • TgnMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-Made with ♥️ by [TeamTGN](https://github.com/Godfatherakkii)
+Made with ♥️ by [TeamTGN](https://github.com/isagzbyk46)
